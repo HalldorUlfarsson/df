@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            vil geta sleppt þessu
-tagline:          'halldorophone'
-description:      'dork'
+title:            halldorophones
+tagline:          'electro acoustic string instrument'
+description:      'electro acoustic string instrument'
 url:              https://halldorulfarsson.github.io/
 baseurl:          /hyde/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:
+  url:
 
 paginate:         5
 
