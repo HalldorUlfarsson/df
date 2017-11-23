@@ -10,7 +10,7 @@ title:            vil geta sleppt þessu
 tagline:          'halldorophone'
 description:      'dork'
 url:              https://halldorulfarsson.github.io/
-baseurl:          /hyde
+baseurl:          /hyde/
 
 author:
   name:           'Mark Otto'
