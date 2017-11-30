@@ -12,7 +12,12 @@ title: Home
       </a>
     </h1>
 
-{% comment %} <span class="post-date">{{ post.date | date_to_string }}</span> thetta er dags i post {% endcomment %}
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
 <div class="pagination">
   {% if paginator.next_page %}
