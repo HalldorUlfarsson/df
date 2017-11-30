@@ -1,14 +1,5 @@
 ---
 layout: page
-title: 2018
+title: older
 ---
-
-![placeholder](https://halldorulfarsson.github.io/hyde/public/assets//DFlogoStort.png "Large example image")
-
-
-![DF](https://halldorulfarsson.github.io/hyde/public/favicon.png "home")
-
-
-
-[![back](https://halldorulfarsson.github.io/hyde/public/favicon.png)]
-(https://halldorulfarsson.github.io/hyde/)
+Everything older than 2013, newest first.
