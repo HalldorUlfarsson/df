@@ -8,7 +8,7 @@ Everything older than 2013, newest first.
   {% for post in site.posts %}
   {% assign this_post_year = post.date | date: "%Y" %}
 
-  {% if this_post_year == "2012,2011,2010,2009" %}
+  {% if this_post_year == "2012" %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
