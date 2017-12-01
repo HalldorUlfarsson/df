@@ -1,6 +1,7 @@
 ---
 layout: page
 title: older
+position: 6
 ---
 <div class="posts">
   {% for post in site.posts %}
