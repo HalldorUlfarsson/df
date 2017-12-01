@@ -20,7 +20,6 @@ Four pieces for halldorophone and a second instrument by composers working withi
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zgEI3h5gces?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>  
 ***  
 
-**293°** Áki Ásgeirsson, for halldorophone and Thranophone (prepared tuba) played by Ingi Garðar Erlendsson. This work has unfortunately been lost to history due to recording media failure.  
-***
+**293°** Áki Ásgeirsson, for halldorophone and Thranophone (prepared tuba) played by Ingi Garðar Erlendsson. This work has unfortunately been lost to history due to recording media failure.   
 
 <small>The commissioning of the pieces was supported by Icelandic National Radio's Composers Fund. Hafdís's composition "A Day in February", was nominated by the Icelandic National Broadcasting Service for the International Rostrum of Composers in Vienna in 2011.</small>
