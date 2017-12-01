@@ -2,8 +2,6 @@
 layout: page
 title: older
 ---
-Everything older than 2013, newest first.
-
 <div class="posts">
   {% for post in site.posts %}
   {% assign this_post_year = post.date | date: "%Y" %}
