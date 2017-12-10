@@ -10,7 +10,7 @@ title:            halldorophone
 tagline:          'electro acoustic string instrument'
 description:      'electro acoustic string instrument'
 url:              www.halldorophone.info
-baseurl:          www.halldorulfarsson.github.io/df/
+baseurl:          /df/
 
 author:
   name:
