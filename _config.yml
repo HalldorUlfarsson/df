@@ -9,8 +9,8 @@ permalink:        pretty
 title:            halldorophone
 tagline:          'electro acoustic string instrument'
 description:      'electro acoustic string instrument'
-url:              www.halldorophone.info/
-baseurl:          "df/"
+url:              www.halldorophone.info
+baseurl:          "/df"
 
 author:
   name:
