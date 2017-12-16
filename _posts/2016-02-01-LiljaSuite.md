@@ -8,7 +8,7 @@ By cellist and composer [Max Lilja](https://en.wikipedia.org/wiki/Max_Lilja) (FI
 
 Max Lilja is a founding member of the legendary cello-centric, stadium rock band Apocalyptica, he is an accomplished composer and performer of his own music, he scores film, TV and games alongside with numerous other musical projects. Max was conscripted by Esa Lilja (no relation) as halldorophonist for Esa´s 2016 [Hrímhvíta Móðir](http://www.halldorophone.info/2016/01/01/Hrimhvita/) and consequently became inspired to compose his own music for the instrument.  
 
-![CMT](/public/img/s.jpg)  
+![CMT](/public/img/s2.jpg)  
 
 <small>Max (right) in workshop with a student and Professor Andrew Bentley (left) at the Centre for Music & Technology of the Sibelius Academy Helsinki</small>  
 
