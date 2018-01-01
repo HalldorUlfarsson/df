@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hrímhvíta Móðir
+title: Hrímhvíta Móðir<h4>Composition by Esa Lilja</h4>
 ---
 Composer and musicologist Esa Lilja (FI) composed for halldorophone and soprano voice. Music performed by cellist and composer Max Lilja (halldorophone) and Martina Roos (soprano).
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suite No.1 for halldorophone
+title: Suite No.1 for halldorophone<h4>Composition by Max Lilja</h4>
 ---
 By cellist and composer [Max Lilja](https://en.wikipedia.org/wiki/Max_Lilja) (FI).
 
