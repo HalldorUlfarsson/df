@@ -9,11 +9,11 @@ position: 6
 
   {% if this_post_year < "2013" %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
   </div>
   {% endif %}
   {% endfor %}
