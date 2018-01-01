@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Einvaldsóður
+title: Einvaldsóður<h4>Opera by Guðmundur Steinn Gunnarsson</h4>
 ---
 Halldorophone included in Einvaldsóður instrumentation, a chamber opera by Guðmundur Steinn Gunnarsson premiered at [Sláturtíð 2017](http://www.slatur.is/slaturtid/slaturtid-2017/). Singers explore aspects of kvæðaskapur and baroque, accompanied by old and experimental instruments in alternative tunings including a first try for experimental lyres developed by Guðumundur Steinn and Halldór.  
 
