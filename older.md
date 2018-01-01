@@ -14,8 +14,6 @@ position: 6
         {{ post.title }}
       </a>
     </h1>
-
-    {{ post.content }}
   </div>
   {% endif %}
   {% endfor %}
