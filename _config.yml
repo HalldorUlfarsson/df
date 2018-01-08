@@ -16,6 +16,9 @@ author:
   name:
   url:
 
+# Google Analytics / Info hér: https://desiredpersona.com/google-analytics-jekyll/
+google_analytics: UA-111864195-1
+
 paginate:         7
 
 # Custom vars
