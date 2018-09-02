@@ -11,8 +11,6 @@ Feedbacking string instruments is a well known method of coloring and generating
 
 A paper describing the halldorophone was accepted at the NIME conference (New Interfaces for Musical Expression) in 2018. Downloadable here: 
 
-[NIME 2018]({{ site.url }}/assets/mydoc.pdf)
 [NIME 2018](/public/img/Halldorophone_NIME_2018.pdf)
-[NIME 2018](/public/img/Halldorophone_NIME_2018.pdf)  
 
 This website is an archive of projects involving halldorophones by year (corrections welcomed if you come across any inaccuracies). The instrument is a project of Halldór Úlfarsson, look down and to the left for his personal website.
