@@ -7,7 +7,7 @@ position: 6
   {% for post in site.posts %}
   {% assign this_post_year = post.date | date: "%Y" %}
 
-  {% if this_post_year < "2013" %}
+  {% if this_post_year < "2014" %}
   <div class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
